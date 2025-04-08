@@ -1,2 +1,2 @@
 # Candyland
- A version if the classic boardgame Candyland
+ A version of the classic board game Candyland
